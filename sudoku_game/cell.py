@@ -8,7 +8,7 @@ class Cell:
 
 
     def pick_quad(self):
-        return self.x % 3 + (self.y % 3) * 3
+        return int(self.x / 3) + int(self.y / 3) * 3
 
 
     def update_available(self, values=set()):

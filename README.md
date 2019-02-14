@@ -1,5 +1,5 @@
 # SudokuSolver2.0
-A number of algorithms for solving sudoku puzzles. 
+A number of algorithms for sudoku puzzles. 
 
 Inspired by the project I did in high school for AP Computer Science, I originally was to solve a sudoku puzzle without recursion and ended up enjoying the game. I will eventually add that version (SudokuSolver1.0 - written in Java) to the repo.
 
